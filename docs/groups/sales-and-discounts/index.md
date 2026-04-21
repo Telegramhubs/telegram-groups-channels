@@ -1,0 +1,31 @@
+# Sales and discounts Telegram Groups
+
+Explore 25 sales and discounts Telegram groups.
+
+- [Telegram 十万中文频道/群组分享](https://t.me/QuQun520) (13.2K)
+- [iTunes Gift Cards](https://t.me/iTunesGift) (8.2K)
+- [Quick BeeVPN/加速器/高速节点/代理](https://t.me/QuickBeeVPN2bot) (6.3K)
+- [帕塞/Pasay外卖签证交流群](https://t.me/yue122) (5.3K)
+- [Чат Тang Cargo ㈢ 🛒](https://t.me/Tang_1688Taobao) (4.7K)
+- [京东～淘宝内购内部优惠券代找](https://t.me/JD_Shopping) (3.5K)
+- [商品交易|二手交易|跳蚤市场|免费发布【博牛社区】](https://t.me/BNsplife) (3.4K)
+- [(1)الصين_إستيراد_CHINA ALMAHDI GTB](https://t.me/GemHUNTT) (2.1K)
+- [汇旺担保 联系@hwdb](https://t.me/gongqiu088) (2.1K)
+- [NSG Family](https://t.me/networksignalguru) (1.9K)
+- [MainCoonINU ( ShiLL Group )](https://t.me/MainCoonINU) (1.4K)
+- [国内购物卡🎟超市购物卡🎫大润发购物卡🔥京东购物卡🎁沃尔玛购物卡](https://t.me/JD_Walmart) (1.2K)
+- [Steam充值卡🕹Steam礼品卡🎮实体礼品卡🎟余额礼品卡💥卡商礼品卡](https://t.me/Steam_ios) (1.1K)
+- [(4) الصين_إستيراد_CHINA ALMAHDI GTB](https://t.me/cryptotko) (983)
+- [闲鱼回收🫰闲鱼二手🫰充值卡密🫰](https://t.me/jdhxhkzkzn) (916)
+- [Cellular-Pro](https://t.me/CellularPro) (909)
+- [Cargo 811 🇨🇳🇷🇺](https://t.me/RuCargo811) (822)
+- [老司机电报群搜索](https://t.me/olddriverearch) (713)
+- [大润发购物卡🎟中国石化🌐国内充值卡🆔会员充值卡🎮QQ充值卡](https://t.me/QQchongzhika_ID) (560)
+- [MAKATI日租/短租公寓群（马尼拉）](https://t.me/dailyrentmakati) (186)
+- [新香港快錢群動蕩即踢](https://t.me/hk_reliable_money) (150)
+- [高仿茅台 精仿茅台 高仿 酒 安静 酒业](https://t.me/anjingjiuye) (103)
+- [海外精准客源数据 international data Chat](https://t.me/worldphonenumber) (42)
+- [巴西短信通道 | 海外短信群发 | 国内卡发机房](https://t.me/duanxintongdaoqf) (35)
+- [Facebook粉丝关注](https://t.me/facebookfensiguanzhu) (34)
+
+> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

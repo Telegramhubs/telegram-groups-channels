@@ -1,0 +1,13 @@
+{
+  "name": "telegram-groups-channels",
+  "version": "1.0.0",
+  "description": "Discover popular Telegram channels and groups - curated resource directory",
+  "type": "module",
+  "scripts": {
+    "build": "node src/generator.js",
+    "deploy": "node src/deploy.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}

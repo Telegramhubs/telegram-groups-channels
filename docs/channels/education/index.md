@@ -1,0 +1,33 @@
+# Education Telegram Channels
+
+Explore 27 education Telegram channels.
+
+- [SACHIN ACADEMY](https://t.me/sachinacademy11) (487.6K - Youtube Channel)
+- [成都师范大学已验证老师车库](https://t.me/chengdu_normal_university) (48.6K - 师范大学验证车库： https://t.me/yanzhengcheku)
+- [Fang的资源分享群](https://t.me/FLMdongtianfudi) (24.1K - 一个综合类的资源分享频道，每天分享有趣、有用的网站、软件、工具、应用、小说、影视等等)
+- [通知频道(新)](https://t.me/xuehuachat) (21.2K - 频道为管理员所建立，用来对各个群聊的管理措施及群规、解封事务等进行通知，建议您关注本频道。)
+- [TG大学堂/得到课程分享(预览)](https://t.me/coursestogether) (20.4K - 本频道主要分享一些拓宽自我边界的课程，不成体系，每天学一点儿，用知识武装自己。)
+- [UPSC Optional Books](https://t.me/Upsc_Optional_Books) (13.8K)
+- [速学与笔记管理艺术](https://t.me/anki_keeper) (4.1K - 渐进主义是一种生活方式！)
+- [The Sociologist](https://t.me/thesoc) (3.7K - On ne parle tant de mémoire que parce qu'il n'y en a plus.)
+- [𝗠𝗔𝗟𝗔𝗬𝗔𝗟𝗔𝗠 | 𝗗𝗔𝗜𝗟𝗬 | 𝗤𝗨𝗜𝗭](https://t.me/malayalamdailyquiz) (3.3K - Kerala PSC Telegram Channel  | Kerala PSC Solved Questions and answers | Kerala PSC Notifications | Kerala PSC Current Affairs |)
+- [南科大今天完了吗](https://t.me/SUSTechGG) (2.6K - 贵科日常药丸新闻，转载自QQ微信等，不保证真实性，请当做“段子频道”来看待，侵删)
+- [中科大💌鹊桥](https://t.me/ustc_pill) (2.2K - 不定時推送妮可藥丸訊息，投稿请 @ustcsearchbot)
+- [诗歌舍](https://t.me/poetry3456) (1.9K - 陋室无名)
+- [ТАҲСИЛ ДАР ЧИН 🇨🇳](https://t.me/tahsildarkishvarichina) (1.5K - Ин саҳифа фақат барои эълон ҳои  бурсия (грант) ҳои таҳсили донишгоҳ ва колеҷ ҳои кишвари ЧИН  аст, барои қабул шудан ба донишгоҳ ҳои кишвари #Чин лутфан бо админ @tahsildarchin2 ҳамоҳанг шавед.)
+- [Красный Дракон | образование в китае](https://t.me/krasniy_drakon_edu) (1.5K - Открываем двери в образование и жизнь в Китае)
+- [暨南報社 🎓 Chicken South's Daily](https://t.me/jnu983) (1.4K - 【广州暨南大学Telegram频道】)
+- [Materials Engineering](https://t.me/material) (1.2K - teaching           @MatEng)
+- [Обучение в Китае после 9 класса в BITC](https://t.me/BITC_EDU_CN) (1.2K - Канал о Beijing Information Technology College -)
+- [古典音乐与哲学](https://t.me/musicandphilosophy) (1.1K - https://t.me/Chatclassical 交流群)
+- [Стипендиаты | Учеба в Китае | Жизнь в Китае | Обучение в Китае](https://t.me/scholarshipers) (711 - Жизнь и учеба студентов в Пекине. Колледж. Университет)
+- [Дневник Панды](https://t.me/pandairy) (333 - Русский студент в Китае)
+- [名言语录QUOTES](https://t.me/mingyanyulu) (215 - 广告，商务合作请联系客服 @TGMAX123)
+- [一口气看完|中国历史|历史人物|带你看历史](https://t.me/dainikanlishi) (159 - 广告，商务合作请联系客服 @yutawatana)
+- [有点意思|中国文化|历史科普](https://t.me/youdianyisilishi) (56 - 广告，商务合作请联系客服 @TGMAX123)
+- [Образование и жизнь в Китае](https://t.me/StudyinginChinal) (50 - Студент Китайского университета Цзянсу в городе Чжэньцзян)
+- [ÈLÖÑ MÚSK](https://t.me/newsupdate247m) (26 - INSPIRATION, MOTIVATION, THOUGHT AND QUOTES)
+- [纽约市高中学生资讯](https://t.me/nychs) (13 - 分享给你纽约市高中政策变更，放假，工作等资源)
+- [🏥男人幫：硬核保健室頻道🩺💊💉](https://t.me/hkbeauty8899) (11 - 男人幫：硬核保健室，型男必到！)
+
+> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
