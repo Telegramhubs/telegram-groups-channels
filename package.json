@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "build": "node src/generator.js",
-    "deploy": "node src/deploy.js"
+    "deploy": "node src/deploy.js",
+    "deploy:cf": "node src/deploy-cf.js"
   },
   "dependencies": {
     "dotenv": "^16.4.5"

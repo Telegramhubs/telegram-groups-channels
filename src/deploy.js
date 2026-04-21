@@ -61,7 +61,7 @@ async function createRepo() {
     body: JSON.stringify({
       name: REPO,
       description: 'Discover popular Telegram channels and groups. Curated directory with thousands of free communities to join.',
-      homepage: 'https://tghub.pages.dev',
+      homepage: 'https://telegram-groups-channels.pages.dev',
       private: false,
       has_issues: true,
       has_projects: false,
@@ -117,7 +117,7 @@ async function pushFiles() {
     '',
     '## Quick Links',
     '',
-    '- [Live Site](https://tghub.pages.dev)',
+    '- [Live Site](https://telegram-groups-channels.pages.dev)',
     '- [Channel Directory](./docs/channels/index.md)',
     '- [Group Directory](./docs/groups/index.md)',
     '- [Sitemap](./public/sitemap.xml)',
@@ -186,7 +186,7 @@ async function setRepoMeta() {
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({
       description: 'Discover popular Telegram channels and groups - curated directory',
-      homepage: 'https://tghub.pages.dev',
+      homepage: 'https://telegram-groups-channels.pages.dev',
       topics: ['telegram', 'channels', 'groups', 'directory', 'community', 'messenger', 'resources']
     })
   });

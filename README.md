@@ -4,7 +4,7 @@ Discover popular Telegram communities. Browse thousands of curated channels and 
 
 ## Quick Links
 
-- [Live Site](https://tghub.pages.dev)
+- [Live Site](https://telegram-groups-channels.pages.dev)
 - [Channel Directory](./docs/channels/index.md)
 - [Group Directory](./docs/groups/index.md)
 - [Sitemap](./public/sitemap.xml)
