@@ -17,4 +17,4 @@ Explore 14 food and cooking Telegram groups.
 - [91视频😍麻豆视频😍女优视频](https://t.me/hxjdkxnbd) (48)
 - [哈希游戏|新币娱乐|HX16|新币投注|OK哈希|OKB99|哈希PC|比特币28](https://t.me/hash16com) (16)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

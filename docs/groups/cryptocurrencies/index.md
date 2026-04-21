@@ -102,4 +102,4 @@ Explore 99 cryptocurrencies Telegram groups.
 - [币安搬砖套利中文社区🇨🇳](https://t.me/binance_chinesezh) (4.0K)
 - [iiPay社区 发言挖矿中](https://t.me/iiFaYan) (3.8K)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

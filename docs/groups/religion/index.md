@@ -8,4 +8,4 @@ Explore 5 religion Telegram groups.
 - [白纸运动(不要核酸，要自由)](https://t.me/Chinesefreedom) (234)
 - [谈论《基督复活了》](https://t.me/jidufuhuole_tanlun) (113)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

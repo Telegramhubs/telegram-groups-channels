@@ -91,4 +91,4 @@ Explore 88 marketing, pr, advertising Telegram channels.
 - [KT智能拓客（官方频道）控天智能拓客KT翻译](https://t.me/KTtuoke_c) (2 - 控天KT智能拓客官网:  https://ktapp.ktai.love 深度结合运营实战优化的智能跨境拓客系统。ai驱动的，懂你业务的翻译系统。懂你业务的客户管理系统。️注意！所有客服不收米，会员后台自行充值>>>注册免费试用)
 - [KT智能拓客（官方频道）控天智能拓客KT翻译](https://t.me/KTtuoke_co) (2 - 控天KT智能拓客官网:  https://ktapp.ktai.love 深度结合运营实战优化的智能跨境拓客系统。ai驱动的，懂你业务的翻译系统。懂你业务的客户管理系统。️注意！所有客服不收米，会员后台自行充值>>>注册免费试用)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

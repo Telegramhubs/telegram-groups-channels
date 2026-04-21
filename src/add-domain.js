@@ -22,7 +22,7 @@ if (existsSync(envPath)) {
 const CF_API_TOKEN = process.env.CLOUDFLARE_API_TOKEN || env.CLOUDFLARE_API_TOKEN;
 const CF_ACCOUNT_ID = process.env.CLOUDFLARE_ACCOUNT_ID || env.CLOUDFLARE_ACCOUNT_ID;
 const PROJECT_NAME = env.CF_PROJECT_NAME || 'tghub';
-const CUSTOM_DOMAIN = 'tghub.pages.dev';
+const CUSTOM_DOMAIN = 'telegram-groups-channels.pages.dev';
 
 async function main() {
   if (!CF_API_TOKEN || !CF_ACCOUNT_ID) {

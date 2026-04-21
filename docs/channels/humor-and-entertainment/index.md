@@ -104,4 +104,4 @@ Explore 101 humor and entertainment Telegram channels.
 - [土豆 搞笑段子 心灵鸡汤 （轻松治愈）](https://t.me/TDKJ3) (8.6K - 心灵鸡汤段子：句句搞笑幽默，让你从头笑到尾！)
 - [青鸟的频道](https://t.me/bluebird_channel) (7.4K - 青鸟的日常和吐槽和段子和群友故事)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

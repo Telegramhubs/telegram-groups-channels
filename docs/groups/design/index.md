@@ -11,4 +11,4 @@ Explore 8 design Telegram groups.
 - [ai换脸⚒能量兑换🌕香烟🌹写真🛫资源对接](https://t.me/xiangyan120) (196)
 - [哈希游戏|新币娱乐|新币投注|OK哈希|OKB99|哈希PC|比特币28|HX28](https://t.me/hx16_6) (24)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

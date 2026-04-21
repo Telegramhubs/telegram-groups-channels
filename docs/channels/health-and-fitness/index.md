@@ -36,4 +36,4 @@ Explore 33 health and fitness Telegram channels.
 - [腾龙视讯|新盛视讯|华纳视讯](https://t.me/ale1315) (3 - 腾龙视讯|新盛视讯|华纳视讯)
 - [西港线上赌场|西港网投赌场](https://t.me/guo163) (0 - 西港线上赌场|西港网投赌场)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

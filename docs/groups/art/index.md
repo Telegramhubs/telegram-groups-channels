@@ -16,4 +16,4 @@ Explore 13 art Telegram groups.
 - [腾龙公司赌场](https://t.me/tenglongsdc) (20)
 - [oibyyyt飞行商品区](https://t.me/oibyyytfeixing) (0)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

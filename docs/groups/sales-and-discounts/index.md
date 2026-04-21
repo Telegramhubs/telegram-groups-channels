@@ -28,4 +28,4 @@ Explore 25 sales and discounts Telegram groups.
 - [巴西短信通道 | 海外短信群发 | 国内卡发机房](https://t.me/duanxintongdaoqf) (35)
 - [Facebook粉丝关注](https://t.me/facebookfensiguanzhu) (34)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

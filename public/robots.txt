@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow:
 
-Sitemap: https://tghub.pages.dev/sitemap.xml
+Sitemap: https://telegram-groups-channels.pages.dev/sitemap.xml

@@ -64,4 +64,4 @@ Explore 61 humor and entertainment Telegram groups.
 - [成都商k 重庆商k安排](https://t.me/cqcdsk) (6)
 - [@chigua126688](https://t.me/chigua126688) (4)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

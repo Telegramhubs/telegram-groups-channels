@@ -100,4 +100,4 @@ Explore 97 games Telegram groups.
 - [灰产项目搞钱🗯偏门副业♈️暴利赚钱](https://t.me/zhuanqian1044) (212)
 - [项目资源社区☯️赚钱📞灰色](https://t.me/zhuanqian1027) (211)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

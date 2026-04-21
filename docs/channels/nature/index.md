@@ -9,4 +9,4 @@ Explore 6 nature Telegram channels.
 - [旗哥看世界|海钓|变态|大鱼](https://t.me/qigehaidiao) (83 - 每天带你看一个世界的角落。)
 - [反差偷拍|福利频道|🚗 老司機百科|女优|av|种子|日韩|套图|视频|高清无码|👉麻豆传媒映画👈果冻传媒/蜜桃传媒/皇家华人/精东影业/国产/中文/国产AV/无码/沈樵/JVID/不见星空/全集搬运（持续更新中…✊✊✊）](https://t.me/dmtu1_phporn_avActress_madoucn) (22)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

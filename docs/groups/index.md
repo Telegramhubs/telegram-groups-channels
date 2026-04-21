@@ -150,4 +150,4 @@ Browse popular Telegram groups curated in this directory.
 - [三角洲.王者荣耀.PUBG.CSGO.和平精英-无畏契约手游端游外挂❑](https://t.me/yxiwaigua) - Games (64.2K)
 - [夫妻圈（夫妻交友群）](https://t.me/fuqibaclub) - Blogs (63.8K)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

@@ -9,4 +9,4 @@ Explore 6 psychology Telegram channels.
 - [𝓟](https://t.me/polinoock) (114)
 - [星梦情感树洞](https://t.me/xlyca) (70 - 树洞/情感类频道 欢迎私信投稿)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

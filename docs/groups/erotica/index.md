@@ -92,4 +92,4 @@ Explore 89 erotica Telegram groups.
 - [长沙KTV摸摸唱真空游戏场](https://t.me/azxaoo) (309)
 - [线下充值卡🚀盘口项目♊️国内实体卡👁苹果游戏📢盘口充值卡](https://t.me/xiangmu1032) (261)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

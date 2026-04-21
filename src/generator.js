@@ -70,7 +70,7 @@ function getMetaDesc(item) {
 
 const SITE_NAME = 'TG Hub';
 const SITE_DESC = 'Discover popular Telegram channels and groups. Browse curated collections of tech, news, crypto, career and more communities on Telegram.';
-const SITE_URL = 'https://tghub.pages.dev';
+const SITE_URL = 'https://telegram-groups-channels.pages.dev';
 
 function pageHeader({ title, description, canonicalUrl, ogType = 'website' }) {
   return `<!DOCTYPE html>

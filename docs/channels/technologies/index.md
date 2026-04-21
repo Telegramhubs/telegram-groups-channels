@@ -104,4 +104,4 @@ Explore 101 technologies Telegram channels.
 - [Launching DDoS attacks and penetrating hackers](https://t.me/aysdghas) (4.6K - 发起 DDoS 攻击与渗透黑客)
 - [Hao-专业机器人开发](https://t.me/haobotdev) (4.5K - Telegram最专业机器人开发)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

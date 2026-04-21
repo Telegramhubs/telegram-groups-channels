@@ -103,4 +103,4 @@ Explore 100 other Telegram channels.
 - [时光集团抖音代刷导航站](https://t.me/sgdyp) (102.4K)
 - [前线吃瓜东南亚](https://t.me/LIIIIL8888) (101.8K - 频道只负责信息发布，真假自行分辨。)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

@@ -9,4 +9,4 @@ Explore 6 transport Telegram groups.
 - [西安🍵娱乐👸西安🍵洗浴 👸 西安🍵兼职外出 🎢](https://t.me/xian_night) (13.3K)
 - [亂流下的Taxi](https://t.me/weareeverytaxi) (9.4K)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

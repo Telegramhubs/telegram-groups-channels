@@ -150,4 +150,4 @@ Browse popular Telegram channels curated in this directory.
 - [阿里云盘发布频道](https://t.me/shareAliyun) - Video and films (210.5K)
 - [𝑲𝒂𝒆𝒓𝒏𝒆𝒕 𝑪𝒉𝒂𝒏𝒏𝒆𝒍](https://t.me/Carllbotnet) - Other (210.3K)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

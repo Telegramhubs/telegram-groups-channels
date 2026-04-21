@@ -51,4 +51,4 @@ Explore 48 career Telegram channels.
 - [大都會生存筆記](https://t.me/MetropolisSurvival) (10 - 職場、生涯規劃主題頻道，佛系經營，社會新鮮人在大都市掙扎求生的各種內容。)
 - [西港金贝公司|西港赌场](https://t.me/TT3587) (9 - 西港金贝公司|西港赌场)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

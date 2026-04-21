@@ -9,4 +9,4 @@ Explore 6 linguistics Telegram groups.
 - [电报项目🫰京东E卡🫰TG项目/飞机项目](https://t.me/hxhxhjzz) (33)
 - [曹操 狗推 话术 交流 素材](https://t.me/goutui11211) (22)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

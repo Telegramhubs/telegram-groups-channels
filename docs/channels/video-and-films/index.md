@@ -100,4 +100,4 @@ Explore 97 video and films Telegram channels.
 - [API接口 字典 接口包开发](https://t.me/ttapijiek) (1.1K)
 - [靠谱🪙零风险🛩洗米💵资源🎉体育](https://t.me/ziyuan1006) (1.0K - 靠谱🪙零风险洗米资源体育)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

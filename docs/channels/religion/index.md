@@ -6,4 +6,4 @@ Explore 3 religion Telegram channels.
 - [金虎爺](https://t.me/Jin_Huye) (766 - 金虎爺)
 - [正统是救赎之道☦️](https://t.me/jidufuhuole) (191 - “我实实在在的告诉你们，那听我话，又信差我来者的，就有永生，不至于定罪，是已经出死入生了。" 约翰福音5：24)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

@@ -7,4 +7,4 @@ Explore 4 linguistics Telegram channels.
 - [俄語自習頻道](https://t.me/RussianTW) (161 - 俄語自習頻道)
 - [⛩ Японский для себя ⛩](https://t.me/JapaneseForMyself) (53 - На канале представлен пошаговый процесс самостоятельного изучения японского языка.)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

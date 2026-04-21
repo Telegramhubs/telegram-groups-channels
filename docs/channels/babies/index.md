@@ -8,4 +8,4 @@ Explore 5 babies Telegram channels.
 - [觅小秘_包养选妃](https://t.me/baoyang_ni) (221 - 包养空姐、演员、护士、老师、健身教练、瑜伽老师。只服务高端人士。真实用户发布的包养信息。)
 - [外围露脸网红福利巨乳](https://t.me/fuliba2024) (112)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

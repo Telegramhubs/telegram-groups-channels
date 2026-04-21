@@ -38,4 +38,4 @@ Explore 35 politics Telegram channels.
 - [中国自由民族党](https://t.me/clnparty) (26 - 中国自由民族党官方频道 中国民族主义者线上联盟)
 - [国民共进会](https://t.me/nationalpa_cn) (3 - 国民共进会)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

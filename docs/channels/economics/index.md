@@ -43,4 +43,4 @@ Explore 40 economics Telegram channels.
 - [每日股市复盘/A股/龙虎榜](https://t.me/daily_stock_review) (52 - 每日发布股市复盘数据，自动爬取自动分析)
 - [Tech news & Interesting facts ❤️ ShopsPrice.com](https://t.me/shopsprice) (12 - News & Facts on ShopsPrice.com:)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

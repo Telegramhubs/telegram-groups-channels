@@ -35,4 +35,4 @@ Explore 32 travel Telegram channels.
 - [китайский фонарик 🏮](https://t.me/cndenglong) (31 - зажигаю небольшой фонарик, чтобы осветить повседневную жизнь, культуру и маленькие открытия в Китае)
 - [爱酱の小さな部屋](https://t.me/juyyg8) (1 - 嗨~)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

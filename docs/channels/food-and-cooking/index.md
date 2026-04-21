@@ -48,4 +48,4 @@ Explore 45 food and cooking Telegram channels.
 - [新胜娱乐|新胜客服|新胜赌场](https://t.me/daka1688) (3 - 新胜娱乐|新胜客服|新胜赌场)
 - [新盛娱乐客服](https://t.me/AE86168) (1 - 新盛娱乐客服)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

@@ -40,4 +40,4 @@ Explore 37 edutainment Telegram channels.
 - [沒有解藥 No Drugs](https://t.me/meiyoujieyao) (3)
 - [\Т•В•О•Р•Ч•Е•С•Т•В•О_М•Е•М•Ы_К•О•Т•И•К•И/](https://t.me/Iliketodrawpictures) (0 - Др нашего канала: 1 ноября 2025 года)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

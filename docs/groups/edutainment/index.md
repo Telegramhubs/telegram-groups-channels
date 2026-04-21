@@ -9,4 +9,4 @@ Explore 6 edutainment Telegram groups.
 - [推特代充🆔会员代充🍎飞机会员🚀电报代充🕹国外代充](https://t.me/jjvfffgb) (548)
 - [澳大利亚购物卡🎟国内购物卡🍎苹果购物卡🆔手机购物卡🎫购物卡核销](https://t.me/Walmart_apple) (443)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

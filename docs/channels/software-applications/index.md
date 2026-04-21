@@ -105,4 +105,4 @@ Explore 102 software & applications Telegram channels.
 - [❤️花样项目通知❤️](https://t.me/wc_mod) (11.1K - 转发软件来自于网络，侵权请私聊联系我删除)
 - [一手引流批发商](https://t.me/yishoufasi) (10.9K - 提升搜索权重 · 频道快速上榜)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

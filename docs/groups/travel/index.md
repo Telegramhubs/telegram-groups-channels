@@ -43,4 +43,4 @@ Explore 40 travel Telegram groups.
 - [Ухань Туристический 武汉 Wuhan](https://t.me/wuhantur) (40)
 - [Остров Хайнань [𝐇𝐚𝐢𝐧𝐲𝐚𝐧]](https://t.me/ostrov_hainyan) (22)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

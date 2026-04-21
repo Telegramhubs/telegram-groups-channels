@@ -8,4 +8,4 @@ Explore 5 fashion and beauty Telegram groups.
 - [🐷佩奇男女服装 海运（可货到付p）](https://t.me/peiqi1818) (223)
 - [山姆礼品卡🎟沃尔玛礼品卡🎫大润发购物卡🔥超市购物卡✈️核销项目](https://t.me/odjcnncncj) (201)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

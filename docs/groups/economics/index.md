@@ -36,4 +36,4 @@ Explore 33 economics Telegram groups.
 - [神級操盤手 | God Level Trader®️Telegram](https://t.me/GodLevelTrader) (37)
 - [外汇 MT5 ST5 FX6招代理](https://t.me/MTST13) (16)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

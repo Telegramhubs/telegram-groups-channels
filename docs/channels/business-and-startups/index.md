@@ -103,4 +103,4 @@ Explore 100 business and startups Telegram channels.
 - [Hacker data penetration](https://t.me/ihasbd) (3.4K)
 - [CooldragonMinerList](https://t.me/CooldragonMinerList) (3.3K - CooldragonMiner! We are the hottest Place to buy and sell miners! Pls contact me on telegram via @CooldragonMinerYuko. You can learn more about the latest miner prices in China through our quotation. Also you can order miners from us directly.)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

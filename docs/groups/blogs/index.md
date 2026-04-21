@@ -33,4 +33,4 @@ Explore 30 blogs Telegram groups.
 - [Sinfdoshlar yangi guruh🤭](https://t.me/sinf_doshlar_2006_2015) (4)
 - [野生布道师](https://t.me/xbudaoshi) (3)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

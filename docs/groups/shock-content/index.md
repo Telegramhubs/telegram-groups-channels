@@ -18,4 +18,4 @@ Explore 15 shock content Telegram groups.
 - [BDSMer 交流群](https://t.me/bdsmer_wiki_baby) (39)
 - [GV资源分享群 ✈️](https://t.me/gvporn_chat) (31)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

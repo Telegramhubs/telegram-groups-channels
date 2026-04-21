@@ -93,4 +93,4 @@ Explore 90 shock content Telegram channels.
 - [抽象妙妙屋](https://t.me/cxmmw258) (8)
 - [屬於大人的深夜充電站🔞](https://t.me/chillTW18) (5)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

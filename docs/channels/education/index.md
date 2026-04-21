@@ -30,4 +30,4 @@ Explore 27 education Telegram channels.
 - [纽约市高中学生资讯](https://t.me/nychs) (13 - 分享给你纽约市高中政策变更，放假，工作等资源)
 - [🏥男人幫：硬核保健室頻道🩺💊💉](https://t.me/hkbeauty8899) (11 - 男人幫：硬核保健室，型男必到！)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

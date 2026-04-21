@@ -101,4 +101,4 @@ Explore 98 telegram Telegram groups.
 - [🍉吃瓜黑料资源搜索-999.9K【全网资源】](https://t.me/sifangktv8) (30.3K)
 - [Telegram❤️资源搜索神器❤️](https://t.me/anwang0202) (30.3K)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

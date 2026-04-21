@@ -37,4 +37,4 @@ Explore 34 design Telegram channels.
 - [拾荒文案馆🇲🇲](https://t.me/wenanguanjxb1) (15 - 公平公正 公开  新盛 真人实体官网️‍ 注册通道下载游戏链接：    xs10817.com                 负责人QQ：3660331187)
 - [亚太招聘交流群](https://t.me/zhaopin63) (7 - 公平公正 公开  新盛 真人实体官网️‍ 注册通道下载游戏链接：    xs10817.com                 负责人QQ：3660331187)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

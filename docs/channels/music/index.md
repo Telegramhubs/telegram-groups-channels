@@ -38,4 +38,4 @@ Explore 35 music Telegram channels.
 - [🍋小T](https://t.me/TheInkStain) (29 - sin.moe)
 - [海上观音](https://t.me/LoveOnTheOcean) (23 - Make love my friend, not war)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

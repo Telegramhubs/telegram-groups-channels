@@ -101,4 +101,4 @@ Explore 98 darknet Telegram groups.
 - [项目总群💚网赚搞钱🕎暴利挣钱](https://t.me/xiangmu1027) (202)
 - [BNB官方中文群](https://t.me/contract_BNB) (200)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

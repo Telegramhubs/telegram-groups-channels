@@ -9,4 +9,4 @@ Explore 6 medicine Telegram channels.
 - [🦷 Стоматология в Китае Хэйхэ [Stoma Heihe]](https://t.me/stomaheihe) (289 - Государственная стоматология в Китае, лечебные туры в Хэйхэ.)
 - [BGI Genomics CIS](https://t.me/bgigenomicscis) (154 - BGI Genomics — ведущий мировой поставщик комплексных решений в области точной медицины)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

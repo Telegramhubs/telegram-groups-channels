@@ -11,4 +11,4 @@ Explore 8 sport Telegram groups.
 - [欧洲杯世界杯体育推单](https://t.me/WorldCupShijiebei) (11)
 - [世界杯 红单 足球 篮球 推单 讨论区](https://t.me/rq7877) (9)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

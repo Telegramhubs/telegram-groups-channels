@@ -99,4 +99,4 @@ Explore 96 video and films Telegram groups.
 - [直播棋牌🌈外围包养📖烟酒奢侈品✳️钱庄🛫Q拉](https://t.me/qipai109) (210)
 - [台区充值卡兑换礼品卡💖游戏代充📫礼品卡工作室🛩购物卡](https://t.me/youxi27) (203)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

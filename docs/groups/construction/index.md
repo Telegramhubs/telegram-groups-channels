@@ -28,4 +28,4 @@ Explore 25 construction Telegram groups.
 - [万宝路赌场](https://t.me/wanbaoluduchanggg) (1)
 - [万宝路赌场](https://t.me/wanbaoluduchangg1) (0)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

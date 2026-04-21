@@ -26,4 +26,4 @@ Explore 23 books Telegram channels.
 - [猫眼涨知识](https://t.me/minikepu) (931 - 用老司機的眼睛，帶你遊遍世界！了解那些不為人知的“趣事”！)
 - [电子书/有声书/小说/期刊/音乐资源](https://t.me/dzs_pdf_dedao_zh_cn_zhongwen_gds) (74 - 听书丨电子书)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

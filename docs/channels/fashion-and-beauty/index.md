@@ -45,4 +45,4 @@ Explore 42 fashion and beauty Telegram channels.
 - [Brand House](https://t.me/nataliabrandhouse) (74 - Бренды  в их лучшем исполнении. Сумки обувь премиум сегмент. Полное соответствие оригиналу. Личная проверка в Китае. Полный видео и фото отчёт.)
 - [好想Nia](https://t.me/haoxiangnia1) (37 - 广告，商务合作请联系客服 @TGMAX123)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

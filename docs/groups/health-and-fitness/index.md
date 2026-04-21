@@ -19,4 +19,4 @@ Explore 16 health and fitness Telegram groups.
 - [哈希单双|哈希游戏|哈希娱乐|哈希十六 |新币哈希|新币加拿大28](https://t.me/hx16_08) (24)
 - [ROIBoost](https://t.me/ROIBoost) (5)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

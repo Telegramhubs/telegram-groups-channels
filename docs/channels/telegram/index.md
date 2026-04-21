@@ -102,4 +102,4 @@ Explore 99 telegram Telegram channels.
 - [币圈盘口资源交易所平台](https://t.me/xiaoxuebi456) (53.3K)
 - [教程|TG代理|机器人定制开发](https://t.me/fufeikc) (52.2K - Telegram免费代理分享)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

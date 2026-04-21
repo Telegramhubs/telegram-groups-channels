@@ -101,4 +101,4 @@ Explore 98 other Telegram groups.
 - [瓜圈吃瓜—万能搜索](https://t.me/dmcg123) (21.4K)
 - [🫡在外华人资源互助群](https://t.me/gongxux) (20.9K)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

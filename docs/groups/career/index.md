@@ -39,4 +39,4 @@ Explore 36 career Telegram groups.
 - [🇨🇳 Hustle Hub | China | Китай | Работа 🇨🇳](https://t.me/hustle_hub_china) (15)
 - [🇭🇰揾銀行工，多區請人揾錢揾錢揾錢💰💰💰💰💰💰💰💰💰💰](https://t.me/bankRecuiment) (11)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

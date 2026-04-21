@@ -19,4 +19,4 @@ Explore 16 courses and guides Telegram channels.
 - [小湿妹视频|反差母狗🍑调教|探花偷拍|上海修车，好逼分享|電報新群推送|Starry_ASMR-CN](https://t.me/tanhuaba_xxootv_siwagirl) (64)
 - [海外商城交流-海外商城代理招商](https://t.me/shangchengjiaoliu) (11 - #海外商城代理招商  #海外商城代理交流)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

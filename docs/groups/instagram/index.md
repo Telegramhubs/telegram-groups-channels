@@ -25,4 +25,4 @@ Explore 22 instagram Telegram groups.
 - [腾龙娱乐](https://t.me/tenglonyulel) (2)
 - [WebsiteDesign](https://t.me/WebsiteDesign5) (1)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

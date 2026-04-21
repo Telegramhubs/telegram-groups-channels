@@ -105,4 +105,4 @@ Explore 102 news and media Telegram channels.
 - [东南亚大事件《每日曝光》](https://t.me/fkdny) (101.6K - 本频道只负责网友投稿发布信息，理性吃瓜，真假自辨，恶意投稿，后果自负)
 - [《菲律宾求职》◒东南亚求职＆菲律宾招聘](https://t.me/xii34) (100.6K - 高质量求职频道 求职信息经过筛选 尽量过滤职业骗子求职信息)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

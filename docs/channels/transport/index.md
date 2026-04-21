@@ -18,4 +18,4 @@ Explore 15 transport Telegram channels.
 - [铁路12306资讯动态🚅](https://t.me/ChinaRailway_12306_News) (189 - ‍️显示无票就是无票，没有人工控票)
 - [香港交通消息 | Hong Kong Transport News](https://t.me/HK_Transport_News) (79 - 只利用 @rss2tg_bot 訂閱 RSS，)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

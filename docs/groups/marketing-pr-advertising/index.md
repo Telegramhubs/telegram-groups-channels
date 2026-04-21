@@ -57,4 +57,4 @@ Explore 54 marketing, pr, advertising Telegram groups.
 - [TG广告联盟](https://t.me/guanggaopingtai) (17)
 - [【免费短信轰炸机】免费轰炸机](https://t.me/free_hz_315) (14)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

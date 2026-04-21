@@ -7,4 +7,4 @@ Explore 4 medicine Telegram groups.
 - [口腔医学群组](https://t.me/kouqiangyixue) (293)
 - [化工原料 化学技术 交流](https://t.me/yazhou556677) (125)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

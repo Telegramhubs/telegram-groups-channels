@@ -104,4 +104,4 @@ Explore 101 cryptocurrencies Telegram channels.
 - [AlphaTon](https://t.me/alphaton) (3.7K - Chinese Channel About TON)
 - [Crypto Tribe Channel](https://t.me/CryptoTribeCapital) (3.7K - Since2021 , Where alpha borns)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

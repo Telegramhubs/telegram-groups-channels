@@ -57,4 +57,4 @@ Explore 54 news and media Telegram groups.
 - [东南亚l黑暗事件l新盛娱乐](https://t.me/asianblacknew) (6)
 - [泰国资源论坛](https://t.me/ziyuan93) (3)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

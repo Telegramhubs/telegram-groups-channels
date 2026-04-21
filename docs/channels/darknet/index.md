@@ -101,4 +101,4 @@ Explore 98 darknet Telegram channels.
 - [🇨🇳 狂人数据-一手数据源头代理](https://t.me/shuju1024) (142 - 【狂人数据】大数据源头，老牌数据运营商~诚信经营，童叟无欺)
 - [赚钱项目 网赚](https://t.me/zhuanqian664) (142 - 赚钱项目 网赚)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

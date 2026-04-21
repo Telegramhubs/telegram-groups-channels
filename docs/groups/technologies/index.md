@@ -92,4 +92,4 @@ Explore 89 technologies Telegram groups.
 - [手机远控｜电脑远控｜免杀过启动](https://t.me/yuankong_MS04) (12)
 - [加加易支付-提供长期稳定费率低](https://t.me/jiapay888) (5)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

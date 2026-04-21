@@ -105,4 +105,4 @@ Explore 102 games Telegram channels.
 - [专业解封官方频道](https://t.me/x911wj) (23.9K - 专业解封各大游戏封号，拉闸)
 - [【奶牛】主打和平-官方🇨🇳](https://t.me/nainiuyyds) (23.5K - 奶牛永久唯一下载官方链接)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

@@ -104,4 +104,4 @@ Explore 101 blogs Telegram channels.
 - [兼职项目 网赚](https://t.me/wangzhuan72) (130 - 兼职项目 网赚)
 - [网赚项目 羊毛偏门](https://t.me/wangzhuan135) (130 - 网赚项目 羊毛偏门)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

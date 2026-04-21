@@ -43,4 +43,4 @@ Explore 40 art Telegram channels.
 - [缅甸腾龙公司|缅甸腾龙娱乐](https://t.me/queenspa168) (28 - 缅甸腾龙公司|缅甸腾龙娱乐)
 - [盛世娱乐平台|盛世公司客服](https://t.me/llch16888) (18 - 盛世娱乐平台|盛世公司客服)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

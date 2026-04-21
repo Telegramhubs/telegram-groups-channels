@@ -83,4 +83,4 @@ Explore 80 software & applications Telegram groups.
 - [链盾 | 投流分流黑科技](https://t.me/liandun168) (4)
 - [🗣 屁帮 🫥](https://t.me/pibang) (3)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

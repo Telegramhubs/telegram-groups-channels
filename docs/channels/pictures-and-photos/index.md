@@ -99,4 +99,4 @@ Explore 96 pictures and photos Telegram channels.
 - [新盛娱乐传媒.生活.美食.旅游.素材](https://t.me/SCFXsty) (5 - #生活 #美食 #旅游 #素材)
 - [盛世公司娱乐客服|盛世国际娱乐客服](https://t.me/shengshigonsiyulekefu) (2 - 盛世公司娱乐客服|盛世国际娱乐客服)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

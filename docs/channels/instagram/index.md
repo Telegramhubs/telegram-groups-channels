@@ -24,4 +24,4 @@ Explore 21 instagram Telegram channels.
 - [皇乐经理|皇乐网站](https://t.me/telewe193112) (2 - 皇乐经理|皇乐网站)
 - [缅甸佤邦盛世娱乐赌场](https://t.me/YB_ZSFZ) (1 - 缅甸佤邦盛世娱乐赌场)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

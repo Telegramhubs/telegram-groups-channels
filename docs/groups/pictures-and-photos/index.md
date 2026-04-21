@@ -31,4 +31,4 @@ Explore 28 pictures and photos Telegram groups.
 - [WallArt Wonders](https://t.me/WallArtWonders) (3)
 - [生活.美食.旅游【素材分享】 Chat](https://t.me/xinshengGroup) (1)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

@@ -49,4 +49,4 @@ Explore 46 sport Telegram channels.
 - [【官方认证】ManBetX万博体育二群](https://t.me/manbetx888888) (11 - 【ManBetX万博】作为领先的在线游戏平台，我们致力于为用户提供丰富多样的体育赛事投注体验。无论是足球、篮球还是其他热门体育项目，我们都为您精心准备了实时赛事更新和深入分析。与此同时，我们也拥有众多游戏平台和优惠活动，让您感受前所未有的感官体验。)
 - [澳门百家乐开户 澳门娱乐注册网址 澳门威尼斯人/华纳国际娱乐/腾龙娱乐公司/万宝路娱乐开户](https://t.me/aomen2288) (8 - 华纳国际娱乐官方网址  www.wbl169.com)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

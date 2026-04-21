@@ -67,4 +67,4 @@ Explore 64 business and startups Telegram groups.
 - [X/twitter 推特起号、互关、互赞、互转群](https://t.me/twitterandx) (4)
 - [综合盘搭建 巴西PG包网 可控搭建](https://t.me/shangcheng1000) (4)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

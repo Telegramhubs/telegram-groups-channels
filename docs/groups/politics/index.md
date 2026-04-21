@@ -23,4 +23,4 @@ Explore 20 politics Telegram groups.
 - [白宮聯署 群組](https://t.me/WHinfogroup) (136)
 - [自由搜尋引擎 Freedom.gov](https://t.me/freedom_gov_1) (20)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

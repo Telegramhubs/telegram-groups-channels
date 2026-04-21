@@ -98,4 +98,4 @@ Explore 95 erotica Telegram channels.
 - [原味内裤👙原味丝袜💋原味内衣](https://t.me/yuanweineiku) (10.3K - 原味内裤，咨询TG(电报) @shaonvzhixin 非诚勿扰！原味丝袜 / 原味内衣 / 原味袜子 / 女鞋 / 二手贴身衣物 / 恋物私物 | 贵在真实 | 宝藏卖家)
 - [YoonyingASMR分享(机翻字幕)](https://t.me/yoonyingfx) (10.1K - 分享yoonying的资源，有机翻字幕)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

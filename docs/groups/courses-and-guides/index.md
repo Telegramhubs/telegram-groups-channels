@@ -13,4 +13,4 @@ Explore 10 courses and guides Telegram groups.
 - [网课分享群组](https://t.me/wangke112233) (27)
 - [tiktok商城招商-商城代理-TK商城招商](https://t.me/shangcheng11111) (26)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

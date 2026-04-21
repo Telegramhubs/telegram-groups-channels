@@ -56,4 +56,4 @@ Explore 53 sales and discounts Telegram channels.
 - [Amazon DE DealScout](https://t.me/AmazonDE_Dealscout) (5 - Exklusive Amazon.de-Blitzangebote alle 15 Minuten!)
 - [Amazon IT DealScout](https://t.me/AmazonIT_DealScout) (4 - Offerte flash Amazon Italia ogni 15 minuti!)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)

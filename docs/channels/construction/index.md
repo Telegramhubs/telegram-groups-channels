@@ -20,4 +20,4 @@ Explore 17 construction Telegram channels.
 - [🪵 用木頭工作](https://t.me/woodworking_CN) (3)
 - [腾龙公司客服|腾龙国际客服|腾龙娱乐客服](https://t.me/sunhaxi) (1 - 腾龙公司客服|腾龙国际客服|腾龙娱乐客服)
 
-> Curated by [TG Hub](https://tghub.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
+> Curated by [TG Hub](https://telegram-groups-channels.pages.dev) | [letsTG](https://letstg.com) | [TG Viral](https://tgviral.com)
