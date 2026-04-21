@@ -60,7 +60,7 @@ async function createRepo() {
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({
       name: REPO,
-      description: 'Discover popular Telegram channels and groups. Curated directory with thousands of free communities to join.',
+      description: '发现优质 Telegram 频道与群组 - 收录 2000+ 公开社群，40+ 分类，中文友好',
       homepage: 'https://telegram-groups-channels.pages.dev',
       private: false,
       has_issues: true,
@@ -108,29 +108,6 @@ async function pushFiles() {
     '*.log',
     '.DS_Store',
     '__pycache__/'
-  ].join('\n'), 'utf-8');
-
-  writeFileSync(join(workDir, 'README.md'), [
-    '# Telegram Groups & Channels',
-    '',
-    'Discover popular Telegram communities. Browse thousands of curated channels and groups.',
-    '',
-    '## Quick Links',
-    '',
-    '- [Live Site](https://telegram-groups-channels.pages.dev)',
-    '- [Channel Directory](./docs/channels/index.md)',
-    '- [Group Directory](./docs/groups/index.md)',
-    '- [Sitemap](./public/sitemap.xml)',
-    '',
-    '## Data Sources',
-    '',
-    '- [tgstat.com](https://cn.tgstat.com) - Telegram statistics platform',
-    '',
-    '## Related Projects',
-    '',
-    '- [letsTG](https://letstg.com)',
-    '- [TG Viral](https://tgviral.com)',
-    ''
   ].join('\n'), 'utf-8');
 
   execSync('git add -A', { cwd: workDir });
@@ -185,9 +162,9 @@ async function setRepoMeta() {
     method: 'PATCH',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({
-      description: 'Discover popular Telegram channels and groups - curated directory',
+      description: '发现优质 Telegram 频道与群组 - 收录 2000+ 公开社群，40+ 分类，中文友好',
       homepage: 'https://telegram-groups-channels.pages.dev',
-      topics: ['telegram', 'channels', 'groups', 'directory', 'community', 'messenger', 'resources']
+      topics: ['telegram', 'channels', 'groups', 'directory', 'community', 'messenger', 'telegram-groups', 'telegram-channels', '社群', '电报']
     })
   });
 }
